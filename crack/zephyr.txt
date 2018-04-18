@@ -1,0 +1,13 @@
+#Fri Jan 23 03:09:43 CST 2015
+Description=Zephyr for JIRA - Test Management for JIRA\: Commercial 
+NumberOfUsers=-1
+CreationDate=2018-02-07
+Evaluation=false
+licenseVersion=2
+MaintenanceExpiryDate=2018-03-20
+Organisation=Yiban
+SEN=SEN-L5067774
+LicenseExpiryDate=2018-03-20
+LicenseTypeName=COMMERCIAL
+com.thed.zephyr.je.active=true
+PurchaseDate=2018-02-07

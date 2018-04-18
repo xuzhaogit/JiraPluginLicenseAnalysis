@@ -1,0 +1,15 @@
+#Tue May 23 22:42:49 CDT 2017
+Description=Capture for JIRA (Server)\: Commercial
+NumberOfUsers=-1
+CreationDate=2017-05-24
+bonfire.enterprise=true
+Evaluation=true
+bonfire.Starter=false
+licenseVersion=2
+bonfire.LicenseTypeName=COMMERCIAL
+MaintenanceExpiryDate=2017-08-22
+Organisation=Yiban
+SEN=SEN-L9766021
+LicenseExpiryDate=2017-08-22
+bonfire.active=true
+PurchaseDate=2017-05-24
